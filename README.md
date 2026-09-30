@@ -1,6 +1,6 @@
 # Tareas API — Spring Boot
 
-![CI](https://github.com/TU_USUARIO/tareas-api-spring-boot/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/fatimalesme/tareas-api-spring-boot/actions/workflows/ci.yml/badge.svg)
 
 API REST para gestionar tareas (CRUD), construida con Spring Boot como evolución de mi proyecto **ToDoWeb** (PHP MVC).
 
